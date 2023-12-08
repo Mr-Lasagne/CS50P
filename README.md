@@ -7,7 +7,7 @@
 ### **[Week 0](/week-0/)**<br><sup><a href="https://cs50.harvard.edu/python/2022/weeks/0/">*Functions, Variables*</a></sup>
   - [Indoor Voice](/week-0/indoor)
   - [Playback Speed](/week-0/playback/)
-  - Making Faces (TODO)
+  - [Making Faces](/week-0/faces/)
   - Einstein (TODO)
   - Tip Calculator (TODO)
 
