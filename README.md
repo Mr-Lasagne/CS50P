@@ -9,7 +9,7 @@
   - [Playback Speed](/week-0/playback/)
   - [Making Faces](/week-0/faces/)
   - [Einstein](/week-0/einstein/)
-  - Tip Calculator (TODO)
+  - [Tip Calculator](/week-0/tip/)
 
 ### **[Week 1](/week-1/)**<br><sup><a href="https://cs50.harvard.edu/python/2022/weeks/1/">*Conditionals*</a></sup>
   - Deep Thought (TODO)
