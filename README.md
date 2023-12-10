@@ -14,7 +14,7 @@
 ### **[Week 1](/week-1/)**<br><sup><a href="https://cs50.harvard.edu/python/2022/weeks/1/">*Conditionals*</a></sup>
   - [Deep Thought](/week-1/deep/)
   - [Home Federal Savings Bank](/week-1/bank/)
-  - File Extensions (TODO)
+  - [File Extensions](/week-1/extensions/)
   - Math Interpreter (TODO)
   - Meal Time (TODO)
 
