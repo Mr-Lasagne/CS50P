@@ -5,7 +5,7 @@ def main():
     numx = float(x)
     numz = float(z)
     
-    print(result(numx, y, numz))
+    print(round(result(numx, y, numz), 1))
 
 def result(n1, o, n2):
     if o == "+":
