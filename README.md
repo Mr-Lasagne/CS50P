@@ -19,7 +19,7 @@
   - [Meal Time](/week-1/meal/)
 
 ### **[Week 2](/week-2/)**<br><sup><a href="https://cs50.harvard.edu/python/2022/weeks/2/">*Loops*</a></sup>
-  - camelCase (TODO)
+  - [camelCase](/week-2/camel/)
   - Coke Machine (TODO)
   - Just setting up my twttr (TODO)
   - Vanity Plates (TODO)
