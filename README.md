@@ -16,7 +16,7 @@
   - [Home Federal Savings Bank](/week-1/bank/)
   - [File Extensions](/week-1/extensions/)
   - [Math Interpreter](/week-1/interpreter/)
-  - Meal Time (TODO)
+  - [Meal Time](/week-1/meal/)
 
 ### **[Week 2](/week-2/)**<br><sup><a href="https://cs50.harvard.edu/python/2022/weeks/2/">*Loops*</a></sup>
   - camelCase (TODO)
