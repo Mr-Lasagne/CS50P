@@ -20,7 +20,7 @@
 
 ### **[Week 2](/week-2/)**<br><sup><a href="https://cs50.harvard.edu/python/2022/weeks/2/">*Loops*</a></sup>
   - [camelCase](/week-2/camel/)
-  - Coke Machine (TODO)
+  - [Coke Machine](/week-2/coke/)
   - Just setting up my twttr (TODO)
   - Vanity Plates (TODO)
   - Nutrition Facts (TODO)
