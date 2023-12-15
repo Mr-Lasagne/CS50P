@@ -5,11 +5,11 @@ This repository consists of my (as yet incomplete) solutions to CS50's Introduct
 ### **[Week 0](/week-0/)**<br><sup><a href="https://cs50.harvard.edu/python/2022/weeks/0/">*Functions, Variables*</a></sup>
   
   ```[tasklist]
-  - [ ][Indoor Voice](/week-0/indoor)
-  - [Playback Speed](/week-0/playback/)
-  - [Making Faces](/week-0/faces/)
-  - [Einstein](/week-0/einstein/)
-  - [Tip Calculator](/week-0/tip/)
+  - [x] [Indoor Voice](/week-0/indoor)
+  - [x] [Playback Speed](/week-0/playback/)
+  - [x] [Making Faces](/week-0/faces/)
+  - [x] [Einstein](/week-0/einstein/)
+  - [x] [Tip Calculator](/week-0/tip/)
   ```
 
 ### **[Week 1](/week-1/)**<br><sup><a href="https://cs50.harvard.edu/python/2022/weeks/1/">*Conditionals*</a></sup>
